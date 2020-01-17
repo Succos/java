@@ -7,10 +7,13 @@
     <groupId>com.succos</groupId>
     <artifactId>springDemo</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>succos_common</module>
+    </modules>
     <packaging>pom</packaging>
 
-    <name>tensquare_parent</name>
-    <description>十次方项目-黑马程序员</description>
+    <name>succos_parent</name>
+    <description>测试</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
